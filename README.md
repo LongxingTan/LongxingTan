@@ -4,6 +4,6 @@
 [![Longxing's github stats](https://github-readme-stats.vercel.app/api?username=longxingtan&theme=vue)](https://github.com/longxingtan)
 
 ### Contact Me
-- Website: [www.yuetan.space](http://www.yuetan.space/)
+- Chinese Website: [www.yuetan.space](http://www.yuetan.space/)
 - LinkedIn: [@LongxingTan](https://www.linkedin.com/in/longxing-tan-360270a2/)
 - Email: tanlongxing888@163.com
